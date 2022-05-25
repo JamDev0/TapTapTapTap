@@ -1,5 +1,5 @@
 # TapTapTapTap
-Mini joguinho de digitação, feito com Node.
+Mini joguinho de digitação feito com Node.
 
 
 # Como jogar?
