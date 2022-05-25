@@ -1,0 +1,19 @@
+{
+  "name": "taptaptap",
+  "version": "1.0.0",
+  "description": "Little write game :)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [
+    "Game"
+  ],
+  "author": "JamDev0",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "log-update": "^5.0.1"
+  },
+  "type": "module"
+}
